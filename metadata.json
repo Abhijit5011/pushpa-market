@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Pushpa - The Indian Flower Market",
+  "description": "A premium Indian flower ordering platform for customers, florists, and admins. Supports puja flowers, garlands, and ceremonial flowers with role-based access and AI-enhanced descriptions.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
