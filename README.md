@@ -8,7 +8,7 @@
   <a href="https://github.com/Abhijit5011/Pushpa-Market">
     <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
-  <a href="https://youtu.be/nDssai3hgvE">
+  <a href="https://youtu.be/Lod-fafSQiA">
     <img src="https://img.shields.io/badge/YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
   </a>
 </div>
